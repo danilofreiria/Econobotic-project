@@ -1,12 +1,12 @@
 # Econobotic - Sistema de Controle de Gastos
 
 <p align="center">
-  <img src="../Econobotic-project/src/assets/EconobotiC%20.png" alt="Econobotic">
+  <img src="[../Econobotic-project/src/assets/EconobotiC%20.png](https://github.com/danilofreiria/Econobotic-project/blob/main/src/assets/EconobotiC%20.png)" alt="Econobotic">
 </p>
-Este é o projeto **Econobotic**, uma API para um sistema de controle de gastos pessoais. Desenvolvido como resultado do Desafio do Módulo 3 da Cubos Academy, o Econobotic oferece uma plataforma flexível para gerenciar suas transações financeiras, categorizando-as e permitindo consultas detalhadas.
+Este é o projeto Econobotic , uma API para um sistema de controle de gastos pessoais. Desenvolvido como resultado do Desafio do Módulo 3 da Cubos Academy, o Econobotic oferece uma plataforma flexível para gerenciar suas transações financeiras, categorizando-as e permitindo consultas detalhadas.
 
 <p align="center">
-  <img src="../Econobotic-project/src/assets/econobotic_template.png" alt="Econobotic Template Login Page">
+  <img src="[../Econobotic-project/src/assets/econobotic_template.png](https://github.com/danilofreiria/Econobotic-project/blob/main/src/assets/econobotic_template.png)" alt="Econobotic Template Login Page">
 </p>
 
 
