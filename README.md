@@ -1,13 +1,13 @@
 # Econobotic - Sistema de Controle de Gastos
 
-<p align="center">
-  <img src="(https://github.com/danilofreiria/Econobotic-project/blob/main/src/assets/EconobotiC%20.png)" alt="Econobotic">
-</p>
-Este é o projeto Econobotic , uma API para um sistema de controle de gastos pessoais. Desenvolvido como resultado do Desafio do Módulo 3 da Cubos Academy, o Econobotic oferece uma plataforma flexível para gerenciar suas transações financeiras, categorizando-as e permitindo consultas detalhadas.
+<div align= "center">
+  
+![EconobotiC ](https://github.com/danilofreiria/Econobotic-project/assets/76266160/02592192-601d-41fc-ad15-a63f4b733a70)
 
-<p align="center">
-  <img src="[../Econobotic-project/src/assets/econobotic_template.png](https://github.com/danilofreiria/Econobotic-project/blob/main/src/assets/econobotic_template.png)" alt="Econobotic Template Login Page">
-</p>
+</div>
+
+
+Este é o projeto Econobotic , uma API para um sistema de controle de gastos pessoais. Desenvolvido como resultado do Desafio do Módulo 3 da Cubos Academy, o Econobotic oferece uma plataforma flexível para gerenciar suas transações financeiras, categorizando-as e permitindo consultas detalhadas.
 
 
 ## Principais Recursos
@@ -41,25 +41,36 @@ O projeto **Econobotic** oferece uma ampla gama de recursos para ajudá-lo a ger
 O Econobotic oferece uma plataforma completa e flexível para ajudar você a manter o controle de suas finanças pessoais, desde o registro inicial de suas transações até a obtenção de insights detalhados sobre seus gastos e receitas.
 
 
+![econobotic_template](https://github.com/danilofreiria/Econobotic-project/assets/76266160/f02b17d4-cc42-431c-b1ba-01af11738b89)
+
+
+
 ## Como Usar
 
 1. **Instalação:** Clone este repositório e instale as dependências do projeto.
 
    ```bash
    git clone https://github.com/danilofreiria/Econobotic-project.git
+
+   ```
+
+   ```bash
    cd Econobotic-project
+   ```
+
+   ```bash
    npm install
    ```
 
-2. **Configuração do Banco de Dados:** Configure as informações do seu banco de dados no arquivo `.env`.
+1. **Configuração do Banco de Dados:** Configure as informações do seu banco de dados no arquivo `.env`.
 
-3. **Execução:** Inicie o servidor da API.
+2. **Execução:** Inicie o servidor da API.
 
    ```bash
    npm start
    ```
 
-4. **Documentação da API:** A documentação da API não está disponível em um ambiente de produção, pois o projeto não foi implantado. Você pode consultar os endpoints diretamente no código-fonte ou usar ferramentas de teste de API, como o Postman.
+3. **Documentação da API:** A documentação da API não está disponível em um ambiente de produção, pois o projeto não foi implantado. Você pode consultar os endpoints diretamente no código-fonte ou usar ferramentas de teste de API, como o Postman.
 
 ## Tecnologias e Bibliotecas Utilizadas
 
@@ -77,4 +88,7 @@ O Econobotic oferece uma plataforma completa e flexível para ajudar você a man
 Danilo Freiria - Desenvolvedor BackEnd
 
 ## Demais informações
-Este projeto foi desenvolvido como parte do Desafio do Módulo 3 da Cubos Academy, com algumas personalizações adicionais. Sinta-se à vontade para explorar, usar e contribuir para tornar o Econobotic ainda melhor!
+- Este projeto foi desenvolvido como parte do Desafio do Módulo 3 da Cubos Academy, com algumas personalizações adicionais. Sinta-se à vontade para explorar, usar e contribuir para tornar o Econobotic ainda melhor!
+- As imagens são puramente conceituais e ilustrativas
+- O projeto foi commitado de uma só vez, fora dos padrões que costumo adotar, devido ao fato de que o repositório original de onde o desafio foi forkado é privado e de propriedade da Cubos Academy, assim como toda a proposta do projeto, sendo de minha autoria, meramente a execução
+- Os outputs, variáveis extraídas da query e do body, além das propriedades das tabelas no banco de dados estão em português em detrimento das exigências do desafio.
